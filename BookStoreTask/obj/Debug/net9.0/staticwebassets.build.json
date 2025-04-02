@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lSl+h5SIRrnhJfVdZvwKs9CHX2qbSw3kjCkODriP4d0=",
+  "Source": "BookStoreTask",
+  "BasePath": "_content/BookStoreTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
