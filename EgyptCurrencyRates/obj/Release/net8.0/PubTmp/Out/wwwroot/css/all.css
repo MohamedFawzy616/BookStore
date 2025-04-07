@@ -1,0 +1,127 @@
+﻿.navbar {
+    direction: rtl;
+    text-align: right
+}
+
+    .navbar ul {
+        padding-right: 0
+    }
+
+    .navbar .nav-item {
+        margin-right: 5px;
+        margin-left: 5px
+    }
+
+.CurrencyRates {
+    text-align: right;
+    direction: rtl;
+    margin-top: 50px
+}
+
+    .CurrencyRates thead th {
+        font-weight: 700;
+        font-size: 15px
+    }
+
+    .CurrencyRates th {
+        text-align: right
+    }
+
+    .CurrencyRates tbody tr td {
+        padding-left: 0;
+        padding-right: 1px
+    }
+
+.summary {
+    text-align: right;
+    border: 1px solid #dee2e6;
+    padding: 20px 10px
+}
+
+.widget {
+    text-align: center
+}
+
+    .widget h1 {
+        text-align: center;
+        margin-bottom: 30px;
+        direction: rtl
+    }
+
+    .widget .datetime {
+    }
+
+    .widget section {
+        margin-top: 15px
+    }
+
+
+footer {
+    direction: rtl;
+    margin-top: 50px;
+    padding-top: 30px
+}
+
+    footer .mx-auto {
+        text-align: right
+    }
+
+
+
+.integration {
+    text-align: center
+}
+
+    .integration h1 {
+        margin-top: 25px;
+        margin-bottom: 35px
+    }
+
+
+
+.privacy {
+    direction: rtl
+}
+
+    .privacy .content {
+        text-align: right
+    }
+
+
+.about {
+    direction: rtl;
+    text-align: right
+}
+
+.policy .content {
+    text-align: right
+}
+
+body {
+    padding-bottom: 0;
+    font-family: almarai,sans-serif
+}
+
+.body-content {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4
+}
+
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%
+}
+
+#qrCode {
+    margin: 15px
+}
+
+@media screen and (max-width:767px) {
+    .carousel-caption {
+        display: none
+    }
+}

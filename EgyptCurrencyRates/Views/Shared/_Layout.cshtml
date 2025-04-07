@@ -1,0 +1,213 @@
+﻿<!DOCTYPE html>
+
+<html lang="ar-EG" dir="rtl">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<title>@Html.Raw(ViewBag.Title)</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+@* 	<meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+	<meta http-equiv="Content-Type" content="text/html" charset="ISO-8859-1"> *@
+
+
+
+
+	<link rel="shortcut icon" href="/images/DollarIcon.ico" type="image/x-icon">
+	<link rel="icon" href="/images/DollarIcon.ico" type="image/x-icon">
+	<!-- Page tags data-->
+
+	<meta name="description" content="@Html.Raw(ViewBag.description)" />
+	<meta name="keywords" content="@Html.Raw(ViewBag.keywords)" />
+
+
+	<!-- Open Graph data -->
+	<base href="/" />
+	<meta property="og:locale" content="ar_EG">
+	<meta property="og:title" content="@Html.Raw(ViewBag.Title)" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://egyptcurrencyrates.com" />
+	<meta property="og:image" content="http://egyptcurrencyrates.com/Images/ogp.png" />
+	<meta property="og:description" content="@Html.Raw(ViewBag.description)" />
+	<meta property="og:site_name" content="egyptcurrencyrates.com" />
+
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="@Html.Raw(ViewBag.Summary)" />
+	<meta name="twitter:site" content="egyptcurrencyrates" />
+	<meta name="twitter:title" content="@Html.Raw(ViewBag.Title)">
+	<meta name="twitter:creator" content="egyptcurrencyrates" />
+	<meta name="twitter:description" content="@Html.Raw(ViewBag.description)">
+	<meta name="twitter:image" content="http://egyptcurrencyrates.com/Images/ogp.png">
+
+	<environment include="Development">
+		<link href="https://fonts.googleapis.com/css?family=Almarai&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+		<link href="~/MDB/css/bootstrap.css" rel="stylesheet" />
+		<link href="~/MDB/css/mdb.css" rel="stylesheet" />
+		<link href="~/css/navbar.css" rel="stylesheet" />
+		<link href="~/css/currencyrates.css" rel="stylesheet" />
+		<link href="~/css/widget.css" rel="stylesheet" />
+		<link href="~/css/integration.css" rel="stylesheet" />
+		<link href="~/css/privacy.css" rel="stylesheet" />
+		<link href="~/css/about.css" rel="stylesheet" />
+		<link href="~/css/policy.css" rel="stylesheet" />
+		<link rel="stylesheet" href="~/css/site.css" />
+		@* <link href="~/css/gold.css" rel="stylesheet" /> *@
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ar_AR/sdk.js#xfbml=1&version=v7.0&appId=1814506192125832&autoLogAppEvents=1"></script>
+	</environment>
+	<environment exclude="Development">
+		<link href="https://fonts.googleapis.com/css?family=Almarai&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+		<link href="~/MDB/css/bootstrap.css" rel="stylesheet" />
+		<link href="~/MDB/css/mdb.css" rel="stylesheet" />
+
+		<link href="~/css/all.css" rel="stylesheet" />
+		@* <link href="~/css/gold.css" rel="stylesheet" /> *@
+		@*<link href="~/css/navbar.css" rel="stylesheet" />
+            <link href="~/css/currencyrates.css" rel="stylesheet" />
+            <link href="~/css/widget.css" rel="stylesheet" />
+            <link href="~/css/integration.css" rel="stylesheet" />
+            <link href="~/css/privacy.css" rel="stylesheet" />
+            <link href="~/css/about.css" rel="stylesheet" />
+            <link href="~/css/policy.css" rel="stylesheet" />
+            <link rel="stylesheet" href="~/css/site.css" />*@
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ar_AR/sdk.js#xfbml=1&version=v7.0&appId=1814506192125832&autoLogAppEvents=1"></script>
+	</environment>
+
+	@if (ViewBag.IsMobileDevice)
+	{
+		<link href="~/css/mobile-article.css" rel="stylesheet" />
+		<link href="~/css/mobile-footer.css" rel="stylesheet" />
+		<link href="~/css/mobile-news.css" rel="stylesheet" />
+	}
+	else
+	{
+		<link href="~/css/footer.css" rel="stylesheet" />
+		<link href="~/css/article.css" rel="stylesheet" />
+		<link href="~/css/news.css" rel="stylesheet" />
+	}
+
+	<partial name="Adsense/_Fawch30" />
+
+</head>
+<body itemscope itemtype="https://schema.org/WebPage">
+	<nav class="navbar navbar-expand-lg navbar-dark primary-color" itemscope itemtype="https://schema.org/BreadcrumbList">
+		<div class="container">
+
+			<a class="navbar-brand" hreflang="EG-ar" href="/">أسعار العملات</a>@*Egypt Currency Rates*@
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+					aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="basicExampleNav">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+						<a itemprop="item" class="nav-link" hreflang="EG-ar" href="/">
+							<span itemprop="name">الرئيسية</span>
+							<meta itemprop="position" content="1" />
+							<span class="sr-only">(current)</span>
+						</a>
+					</li>
+					@*<li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                               aria-haspopup="true" aria-expanded="false">اختر بنك</a>
+                            <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </li>*@
+					@*<li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                               aria-haspopup="true" aria-expanded="false">اختر عملة</a>
+                            <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </li>*@
+					<li class="nav-item active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+						<a itemprop="item" class="nav-link" hreflang="EG-ar" href="/NewsList/Index">
+							<span itemprop="name">الأخبار</span>
+							<meta itemprop="position" content="2" />
+						</a>
+					</li>
+					<li class="nav-item active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+						<a itemprop="item" class="nav-link" hreflang="EG-ar" href="/Gold/Index">
+							<span itemprop="name">أسعار الذهب</span>
+							<meta itemprop="position" content="3" />
+						</a>
+					</li>
+					<li class="nav-item active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+						<a itemprop="item" class="nav-link" hreflang="EG-ar" href="/Home/Integration">
+							<span itemprop="name">الاسعار لموقعك</span>
+							<meta itemprop="position" content="4" />
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</nav>
+	<!--/.Navbar-->
+	@*<nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">EgyptCurrencyRates</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>*@
+
+	<partial name="_CookieConsentPartial" />
+
+	<div class="container body-content">
+		@RenderBody()
+	</div>
+	<partial name="_Footer" />
+
+	<environment include="Development">
+		@*<script src="~/lib/jquery/dist/jquery.js"></script>
+            <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>*@
+		<script src="~/MDB/js/jquery.js"></script>
+		<script src="~/MDB/js/bootstrap.js"></script>
+		<script src="~/MDB/js/mdb.js"></script>
+	</environment>
+	<environment exclude="Development">
+		@*<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                    asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                    asp-fallback-test="window.jQuery"
+                    crossorigin="anonymous"
+                    integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+            </script>*@
+		@*<script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                    asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                    asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                    crossorigin="anonymous"
+                    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+            </script>*@
+		@*<script src="~/js/site.min.js" asp-append-version="true"></script>
+            <script src="~/mdbootstrap/js/mdb.js"></script>*@
+		<script src="~/MDB/js/jquery.js"></script>
+		<script src="~/MDB/js/bootstrap.js"></script>
+		<script src="~/MDB/js/mdb.js"></script>
+	</environment>
+
+	@RenderSection("Scripts", required: false)
+
+	<partial name="_GoogleAnalytics" />
+</body>
+</html>

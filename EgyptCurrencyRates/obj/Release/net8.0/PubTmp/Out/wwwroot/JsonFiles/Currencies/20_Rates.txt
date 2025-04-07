@@ -1,0 +1,1 @@
+[{"Id":27231884,"BankId":8,"Bank":"البنك المركزي المصري","BankUrl":null,"CurrencyId":20,"Currency":"اليوان الصيني","CurrencyCode":null,"Buy_Price":6.936,"Sale_Price":6.956,"Transfer_Buy":0.0,"Transfer_Sale":0.0,"BankLogo":"Central-Bank-of-Egypt.png","CurrencyLogo":"Chinese-Yuan.png","Date":"2025-02-20T04:00:22.797"}]

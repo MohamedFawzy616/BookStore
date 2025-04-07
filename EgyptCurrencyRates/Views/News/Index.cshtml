@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ArticleViewModel>
+@{
+    ViewData["Title"] = "أخر الأخبار";
+}
+<div class="news row">
+    <div class="header">
+        <h1>
+            أخر الأخبار
+        </h1>
+        <span class="links">
+            <a href="/NewsList">الكل</a> |
+            <a href="/NewsList/شراء">شراء</a> |
+            <a href="/NewsList/بيع">بيع</a> |
+            <a href="/NewsList/بنوك">بنوك</a> |
+            <a href="/NewsList/عملات">عملات</a> |
+            <a href="/NewsList/عملات_و_بنوك">عملات و بنوك</a>
+        </span>
+    </div>
+    <div class="reports row">
+        @foreach (var item in Model)
+        {
+            <div class="report row">
+                <div class="image col-md-4">
+                    <img class="img-thumbnail" alt="@item.Title" src="~/images/article/@item.Image" />
+                </div>
+                <div class="report-summary col-md-8">
+                    <p>
+                        @if (item.Ispermanent == true)
+                        {
+                            <a href="/news/@item.Title.Replace(" ","-")">@item.Title</a>
+                        }
+                        else
+                        {
+                            <a href="/news/@item.Id/@item.Title.Replace(" ","-")">@item.Title</a>
+                        }
+                    </p>
+                    <p>
+                        @item.Summary
+                    </p>
+                    <div class="info">
+                        <span class="date">@Analytics.ConvertDate(item.Date ?? DateTime.Now)</span>
+                        <span class="author">محمد فوزي</span>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <partial name="_Paging" />
+</div>

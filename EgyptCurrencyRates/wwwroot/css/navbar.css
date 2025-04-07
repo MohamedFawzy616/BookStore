@@ -1,0 +1,13 @@
+﻿.navbar {
+    direction: rtl;
+    text-align: right;
+}
+    .navbar ul {
+        padding-right: 0px;
+ 
+        }
+
+    .navbar .nav-item {
+        margin-right: 5px;
+        margin-left: 5px;
+    }

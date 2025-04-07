@@ -15,5 +15,11 @@ namespace BookStoreTask.Models
 
         //Navigation Properites
         public Author Author { get; set; }
+
+        public string UserId { get; set; } = string.Empty; // Owner of the book record
+
+        // Navigation property to ApplicationUser if needed
+        // public ApplicationUser User { get; set; }
+
     }
 }

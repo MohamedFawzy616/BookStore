@@ -1,20 +1,26 @@
 ﻿using BookStoreTask.DTOs;
 using BookStoreTask.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using System.Security.Claims;
 
 namespace BookStoreTask.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     [Produces("application/json")]
     public class BooksController : ControllerBase
     {
-        private readonly IBookService _bookService;
 
-        public BooksController(IBookService bookService)
+        private readonly ILogger<BooksController> _logger;
+        private readonly IBookService _bookService;
+        public BooksController(IBookService bookService, ILogger<BooksController> logger)
         {
             _bookService = bookService;
+            _logger = logger;
         }
 
         /// <summary>
@@ -26,6 +32,9 @@ namespace BookStoreTask.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<IEnumerable<BookReadDto>>> GetAllBooks()
         {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            _logger.LogInformation("Getting all books for user: {UserId}", userId);
+
             var books = await _bookService.GetAllBooksAsync();
             return Ok(books);
         }
@@ -42,6 +51,9 @@ namespace BookStoreTask.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<BookReadDto>> GetBookById(int id)
         {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            _logger.LogInformation("Getting book with ID: {BookId} for user: {UserId}", id, userId);
+
             var book = await _bookService.GetBookByIdAsync(id);
             if (book == null)
                 return NotFound(new { message = $"Book with ID {id} not found" });

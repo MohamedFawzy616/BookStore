@@ -1,0 +1,1 @@
+[{"Id":8963222,"BankId":31,"Bank":"بنك عودة","CurrencyId":22,"Currency":"ليرة لبناني","Buy_Price":0.0,"Sale_Price":1.0,"Transfer_Buy":0.0,"Transfer_Sale":0.0,"BankLogo":"audi-bank.png","CurrencyLogo":"Lebanon_LBP.png","Date":"2020-12-18T16:24:53.323"}]

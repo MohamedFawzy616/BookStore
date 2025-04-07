@@ -1,0 +1,85 @@
+﻿@using System.Text;
+@model List<RateViewModel>
+
+@{
+	var law_Buy_Price = Model.OrderBy(r => r.Buy_Price).FirstOrDefault().Buy_Price;
+	var high_Buy_Price = Model.OrderByDescending(r => r.Buy_Price).FirstOrDefault().Buy_Price;
+}
+
+<script type="application/ld+json">
+	{
+	"@@context": "https://schema.org",
+	"@@type": "AggregateOffer",
+	"name": "@Html.Raw(ViewBag.Title)",
+	"description": "@Html.Raw(ViewBag.description)",
+	"priceCurrency": "EGP",
+	@* 	"lowPrice": @law_Buy_Price,
+	"highPrice": @high_Buy_Price, *@
+	"offers": [@{
+		StringBuilder stringBuilder = new StringBuilder();
+
+		foreach (RateViewModel rateView in Model)
+		{
+			double price = rateView.Buy_Price;
+			string priceCurrency = "EGP";
+			string availability = "https://schema.org/InStock";
+			string currencyName = rateView.Currency;
+			string currencyCode = rateView.CurrencyCode;
+			string bankName = rateView.Bank.Replace(")", string.Empty).Replace("(", string.Empty);
+			string date = rateView.Date.ToString("yyyy-MM-ddTHH:mm:sszzz"); //.ToString("YYYY-MM-DDTHH:mm:ss.sssZ");
+
+
+			@*   ""availability"": ""{2}"", ""name"": ""{3}"",*@
+ 
+
+			
+
+			string json = string.Format(@"
+		{{
+		  ""@type"": ""Offer"",
+		  ""price"": {0},
+		  ""priceCurrency"": ""{1}"",
+			  ""dateModified"":""{6}"",
+			  ""itemOffered"": {{
+			  ""@type"": ""Currency"",
+			  ""code"": ""{4}""
+		  }},
+		  ""seller"": {{
+			  ""@type"": ""Bank"",
+			  ""name"": ""{5}""
+		  }}
+		}},", Math.Round(price, 2) , priceCurrency, availability, currencyName, currencyCode, bankName, date);
+
+			stringBuilder.Append(json);
+
+			if (rateView == Model.Last())
+			{
+				stringBuilder.Remove(stringBuilder.Length - 1, 1); // Remove the last comma
+			}
+		}
+	}
+	@Html.Raw(stringBuilder.ToString())
+		  ]
+		}
+</script>
+
+@*
+
+{
+          "@@type": "Offer",
+          "price": "15.70",
+          "priceCurrency": "EGP",
+          "availability": "https://schema.org/InStock",
+          "itemOffered": {
+            "@@type": "Currency",
+            "name": "دولار أمريكي",
+            "code": "USD"
+          },
+          "seller": {
+            "@@type": "Bank",
+            "name": "بنك مصر",
+            "url": "https://www.banquemisr.com"
+          }
+}, 
+
+*@

@@ -6,6 +6,11 @@ using Microsoft.EntityFrameworkCore;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using System.Reflection;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+//using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace BookStoreTask
 {
@@ -27,6 +32,7 @@ namespace BookStoreTask
             // Services
             builder.Services.AddScoped<IBookService, BookService>();
             builder.Services.AddScoped<IAuthorService, AutherService>();
+            builder.Services.AddScoped<IAuthService, AuthService>();
 
             // AutoMapper
             builder.Services.AddAutoMapper(typeof(MappingProfile));
@@ -43,6 +49,64 @@ namespace BookStoreTask
             //// Add FluentValidation
             builder.Services.AddFluentValidationAutoValidation();
 
+
+
+            // Configure Identity
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+            {
+                options.Password.RequiredLength = 8;
+                options.Password.RequireDigit = true;
+                options.Password.RequireUppercase = true;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireNonAlphanumeric = true;
+                options.User.RequireUniqueEmail = true;
+            })
+                .AddEntityFrameworkStores<BookDbContext>()
+                .AddDefaultTokenProviders();
+
+            // Configure JWT Authentication
+      
+            var jwtSettings = builder.Configuration.GetSection("JwtSettings");
+            var key = Encoding.ASCII.GetBytes(jwtSettings["Secret"]);
+
+            builder.Services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+            })
+                .AddJwtBearer(options =>
+                {
+                    options.SaveToken = true;
+                    options.RequireHttpsMetadata = false;
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = jwtSettings["Issuer"],
+                        ValidAudience = jwtSettings["Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(key),
+                        ClockSkew = TimeSpan.Zero
+                    };
+                });
+
+            //IServiceCollection AddApiVersioningServices
+          
+            //services.AddApiVersioning(options =>
+            //{
+            //    options.DefaultApiVersion = new ApiVersion(1, 0);
+            //    options.AssumeDefaultVersionWhenUnspecified = true;
+            //    options.ReportApiVersions = true;
+            //    options.ApiVersionReader = new HeaderApiVersionReader("x-api-version");
+            //});
+
+            //services.AddVersionedApiExplorer(options =>
+            //{
+            //    options.GroupNameFormat = "'v'VVV";
+            //    options.SubstituteApiVersionInUrl = true;
+            //});
 
             var app = builder.Build();
 

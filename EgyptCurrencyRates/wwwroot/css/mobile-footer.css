@@ -1,0 +1,23 @@
+﻿footer {
+    direction: rtl;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+    footer .list {
+        text-align: right;
+        width: 50%;
+    }
+
+        footer .list ul {
+            padding-right: 15px;
+        }
+    footer h6 {
+        padding-right: 15px;
+        padding-bottom: 0px;
+        height: 10px;
+    }
+    footer .social {
+        padding-right: 20%;
+        padding-bottom: 15px;
+    }

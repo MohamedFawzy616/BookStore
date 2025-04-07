@@ -1,0 +1,1 @@
+[{"UnitTypeId":1,"UnitTypeTitleAr":"ملخص","UnitTypeTitleEn":"Summary"},{"UnitTypeId":2,"UnitTypeTitleAr":"للأونصة","UnitTypeTitleEn":"Per Ounce "},{"UnitTypeId":3,"UnitTypeTitleAr":"للجرام","UnitTypeTitleEn":"Per Gram"},{"UnitTypeId":4,"UnitTypeTitleAr":"للكيلوجرام","UnitTypeTitleEn":"Per Kilgram"},{"UnitTypeId":5,"UnitTypeTitleAr":"للتولة","UnitTypeTitleEn":"Per Tola"}]

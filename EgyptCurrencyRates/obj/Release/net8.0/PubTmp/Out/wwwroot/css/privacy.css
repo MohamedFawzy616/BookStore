@@ -1,0 +1,6 @@
+﻿.privacy {
+    direction: rtl;
+}
+    .privacy .content {
+        text-align: right;
+    }

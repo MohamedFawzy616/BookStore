@@ -9,14 +9,18 @@ namespace BookStoreTask.Services
     {
         private readonly IMapper mapper;
         private readonly IBookRepository repository;
-        public BookService(IBookRepository _bookRepository, IMapper _mapper)
+        private readonly ILogger<BookService> _logger;
+
+        public BookService(IBookRepository _bookRepository, IMapper _mapper, ILogger<BookService> logger)
         {
             repository = _bookRepository;
             this.mapper = _mapper;
+            _logger = logger;
         }
 
         public async Task<IEnumerable<BookReadDto>> GetAllBooksAsync()
         {
+            //_logger.LogInformation("Getting all books for user: {UserId}", userId);
             var books = await repository.GetAllBooksAsync();
             return mapper.Map<IEnumerable<BookReadDto>>(books);
         }

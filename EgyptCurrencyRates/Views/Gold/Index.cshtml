@@ -1,0 +1,120 @@
+﻿@using System.Globalization
+@model IEnumerable<GoldPriceModel>
+
+<partial name="_SchemaMarkupGold" model="Model">
+
+	<div class="container widget my-5 py-5 z-depth-1">
+		<h1 class="font-weight-bold" itemprop="name">
+			@Html.Raw(ViewBag.Title)
+		</h1>
+		@{
+			CultureInfo culture = new CultureInfo("ar-EG");
+			string formattedDate = Model.FirstOrDefault().Date.Value.ToString("dd MMMM yyyy", culture);
+			<strong>@Html.Raw(Analytics.Day()) @formattedDate</strong>
+		}
+		<section class="text-center px-md-5 mx-md-5 dark-grey-text">
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-7">
+					<p>
+						<h2>@Html.Raw(ViewBag.h2)</h2>
+					</p>
+				</div>
+			</div>
+		</section>
+	</div>
+	<div itemprop="mainEntity" itemscope itemtype="https://schema.org/ItemList">
+		<table class="table table-striped CurrencyRates">
+			<caption itemprop="name">@Html.Raw(Analytics.Day()) @formattedDate</caption>
+			<thead class="aqua-gradient white-text">
+				<tr>
+					<th scope="col">الوحدة</th>
+					<th scope="col">جنيه مصري</th>
+					<th scope="col">دولار امريكي</th>
+					<th scope="col">تاريخ أخر تعديل</th>
+				</tr>
+			</thead>
+			<tbody>
+				@*
+					improve
+					1-add itemprop ex ---> "itemprop='price'"
+
+				*@
+				@foreach (var item in Model)
+				{
+					<tr>
+						<td>
+							@Html.DisplayFor(modelItem => item.GoldUnitTitleAr)
+						</td>
+						<td>
+							@Html.DisplayFor(modelItem => item.EgyptianPound)
+						</td>
+						<td>
+							@Html.DisplayFor(modelItem => item.USADollar)
+						</td>
+						<td>
+							@{
+								DateTime now = item.Date.Value;
+								CultureInfo arabicCulture = new CultureInfo("ar-EG");
+
+								string date = now.ToString("dd MMMM yyyy - h:mm tt", arabicCulture);
+
+								// string date = item.Date.Value.ToString("yyyy/MM/dd h:mm tt").Replace("PM", "م").Replace("AM", "ص");
+							}
+							@Html.DisplayFor(modelItem => date)
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+
+	<div class="col-md-12 summary">
+		<main>
+			<h3>أسعار الذهب اليوم في مصر - تحديث فوري</h3>
+			<p>
+				مرحبًا بكم في صفحة أسعار الذهب اليوم في مصر على موقعنا
+			</p>
+			<section>
+				<p>نقدم لكم الأسعار المحدثة يوميًا بناءً على السوق المحلي والعالمي</p>
+			</section>
+
+			<section>
+				<h3>ما الذي يؤثر على سعر الذهب؟</h3>
+				<p>
+					تتأثر أسعار الذهب في مصر بعدة عوامل، أهمها سعر الدولار في السوق الرسمية والموازية،
+					حيث يرتبط سعر الذهب بالدولار. كما تلعب عوامل اقتصادية اخرى مثل التضخم، سعر الفائدة،
+				</p>
+			</section>
+
+			<section>
+				<h3>كيف تستفيد من متابعة أسعار الذهب؟</h3>
+				<p>
+					لو كنت تخطط لشراء الذهب أو بيعه، فإن متابعتك الأسعار اليومية تساعدك على اتخاذ قرارات سليمة. مثلا،
+					يمكنك تحديد أفضل وقت لشراء الذهب عندما تنخفض الأسعار ، أو بيعه عندما ترتفع لتحقيق ربح.
+				</p>
+			</section>
+
+			<section>
+				<h3>لماذا نحن؟</h3>
+				<p>
+					نحن نقدك معلومات دقيقة ومحدثة من مصادر موثوقة مع واجهة بسيطة
+					تابعونا يوميًا للحصول على آخر الأخبار والتحليلات حول سعر الذهب
+				</p>
+				يمكنك متابعتنا هنا
+				<ul>
+					<li>
+						<a hreflang="EG-ar" href="https://chat.whatsapp.com/KqsJcDmywvxA0ZmaZnGeIe">انضم الى واتس اب</a>
+					</li>
+					<li>
+						<a hreflang="EG-ar" href="https://t.me/+CLreE-oOIlAxOWU8">انضم الى تلجرام</a>
+					</li>
+					<li>
+						<a href="/">سعر الدولار اليوم - تحديث فوري</a>
+					</li>
+					<li>
+						<a href="https://btcegyptgold.com/ar/" target="_blank" rel="noopener">شركة BTC</a>
+					</li>
+				</ul>
+			</section>
+		</main>
+	</div>

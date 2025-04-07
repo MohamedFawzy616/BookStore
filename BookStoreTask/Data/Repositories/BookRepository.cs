@@ -60,13 +60,28 @@ namespace BookStoreTask.Data.Repositories
         {
             return await _context.Books.AnyAsync(b => b.Id == id);
         }
-        public async Task<bool> BookExistsForAuthorAsync(int id,int authorId)
+        public async Task<bool> BookExistsForAuthorAsync(int id, int authorId)
         {
             return await _context.Books.AnyAsync(b => b.Id == id && b.AuthorId == authorId);
         }
         public async Task<bool> SaveChangeAsync()
         {
             return await _context.SaveChangesAsync() > 0;
+        }
+
+
+
+        public async Task<IEnumerable<Book>> GetBooksByUserIdAsync(string userId)
+        {
+            return await _context.Books
+                .Where(b => b.UserId == userId)
+                .ToListAsync();
+        }
+
+        public async Task<bool> IsBookOwnedByUserAsync(int bookId, string userId)
+        {
+            return await _context.Books
+                .AnyAsync(b => b.Id == bookId && b.UserId == userId);
         }
     }
 }

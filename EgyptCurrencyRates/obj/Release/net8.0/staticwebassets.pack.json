@@ -1,0 +1,1565 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Australian-Dollar.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Australian-Dollar.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Bahraini-Dinar.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Bahraini-Dinar.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\British-Pound.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\British-Pound.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Canadian-Dollar.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Canadian-Dollar.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Chinese-Yuan.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Chinese-Yuan.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Danish-Krone.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Danish-Krone.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Euro.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Euro.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Euro_.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Euro_.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Jordanian-Dinar.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Jordanian-Dinar.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Kuwaiti-Dinar.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Kuwaiti-Dinar.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Lebanon_LBP.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Lebanon_LBP.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Norwegian-Krone.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Norwegian-Krone.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Omani-Rial.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Omani-Rial.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Qatari-Rial.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Qatari-Rial.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Saudi-Rial.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Saudi-Rial.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Swedish-Krona.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Swedish-Krona.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Swiss-Franc.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Swiss-Franc.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\Thai-Baht.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\Thai-Baht.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\UAE-Dirham.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\UAE-Dirham.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\USD.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\USD.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\Currencies\\yen.png",
+      "PackagePath": "staticwebassets\\Images\\Currencies\\yen.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\DollarIcon.ico",
+      "PackagePath": "staticwebassets\\Images\\DollarIcon.ico"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\apps\\facebook-groups.png",
+      "PackagePath": "staticwebassets\\Images\\apps\\facebook-groups.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\apps\\facebook-page.png",
+      "PackagePath": "staticwebassets\\Images\\apps\\facebook-page.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\apps\\telegram.png",
+      "PackagePath": "staticwebassets\\Images\\apps\\telegram.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\apps\\twitter.png",
+      "PackagePath": "staticwebassets\\Images\\apps\\twitter.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\apps\\whatsapp.png",
+      "PackagePath": "staticwebassets\\Images\\apps\\whatsapp.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_1.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_1.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_10.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_10.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_11.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_11.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_12.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_12.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_13.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_13.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_14.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_14.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_15.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_15.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_16.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_16.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_17.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_17.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_18.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_18.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_19.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_19.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_2.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_20.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_20.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_21.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_21.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_22.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_22.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_23.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_23.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_24.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_24.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_25.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_25.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_27.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_27.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_28.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_28.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_29.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_29.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_3.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_3.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_30.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_30.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_31.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_31.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_32.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_32.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_33.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_33.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_34.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_34.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_35.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_35.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_36.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_36.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_37.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_37.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_4.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_4.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_5.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_5.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_6.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_6.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_7.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_7.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_8.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_8.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\bank_9.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\bank_9.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_1.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_1.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_10.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_10.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_11.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_11.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_12.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_12.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_13.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_13.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_14.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_14.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_15.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_15.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_16.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_16.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_17.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_17.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_18.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_18.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_19.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_19.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_2.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_20.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_20.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_21.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_21.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_22.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_22.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_3.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_3.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_5.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_5.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_7.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_7.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_8.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_8.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\article\\currency_9.jpg",
+      "PackagePath": "staticwebassets\\Images\\article\\currency_9.jpg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Ahli-United-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Ahli-United-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Al-Ahli-bank-of-Kuwait.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Al-Ahli-bank-of-Kuwait.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Arab-African-International-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Arab-African-International-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Arab-Investment-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Arab-Investment-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Banque-du-Caire.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Banque-du-Caire.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Central-Bank-of-Egypt.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Central-Bank-of-Egypt.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Credit-Agricole-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Credit-Agricole-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Egyptian-Arab-Land-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Egyptian-Arab-Land-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Egyptian-Gulf-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Egyptian-Gulf-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Export-Development-Bank-Of-Egypt.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Export-Development-Bank-Of-Egypt.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Housing-Development-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Housing-Development-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Industrial-Development-Workers-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Industrial-Development-Workers-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\MISR-IRAN-Development-BANK.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\MISR-IRAN-Development-BANK.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\NPG.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\NPG.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\National-Bank-of-Egypt-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\National-Bank-of-Egypt-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\QNB-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\QNB-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\SAIB.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\SAIB.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\Suez-Canal-Bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\Suez-Canal-Bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\abu-dhabi.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\abu-dhabi.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\aib_bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\aib_bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\albaraka-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\albaraka-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\alex-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\alex-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\audi-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\audi-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\bloom-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\bloom-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\cib.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\cib.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\emiratesnbd-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\emiratesnbd-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\hsbc-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\hsbc-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\mashreq-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\mashreq-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\misr-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\misr-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\united-bank.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\united-bank.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banks\\‏‎National-Bank-of-Kuwait.png",
+      "PackagePath": "staticwebassets\\Images\\banks\\‏‎National-Bank-of-Kuwait.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banner1.svg",
+      "PackagePath": "staticwebassets\\Images\\banner1.svg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banner2.svg",
+      "PackagePath": "staticwebassets\\Images\\banner2.svg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\banner3.svg",
+      "PackagePath": "staticwebassets\\Images\\banner3.svg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Images\\site-logo.png",
+      "PackagePath": "staticwebassets\\Images\\site-logo.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\10_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\10_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\11_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\11_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\12_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\12_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\13_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\13_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\17_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\17_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\19_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\19_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\1_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\1_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\20_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\20_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\21_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\21_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\23_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\23_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\24_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\24_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\27_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\27_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\2_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\2_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\31_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\31_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\32_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\32_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\33_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\33_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\34_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\34_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\35_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\35_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\3_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\3_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\4_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\4_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\5_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\5_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\6_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\6_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\7_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\7_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Banks\\8_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Banks\\8_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\10_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\10_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\11_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\11_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\12_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\12_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\13_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\13_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\14_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\14_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\15_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\15_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\16_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\16_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\17_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\17_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\18_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\18_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\19_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\19_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\1_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\1_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\20_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\20_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\21_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\21_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\22_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\22_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\2_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\2_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\3_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\3_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\5_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\5_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\7_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\7_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\8_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\8_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Currencies\\9_Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Currencies\\9_Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\GoldPrices.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\GoldPrices.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\GoldPrices\\GoldRates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\GoldPrices\\GoldRates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\GoldUnitTypes.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\GoldUnitTypes.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Less.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Less.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Posts\\Body.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Posts\\Body.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Posts\\Footer.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Posts\\Footer.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Posts\\Header.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Posts\\Header.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Posts\\counter.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Posts\\counter.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Rates.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Rates.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\JsonFiles\\Top.txt",
+      "PackagePath": "staticwebassets\\JsonFiles\\Top.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\License.pdf",
+      "PackagePath": "staticwebassets\\MDB\\License.pdf"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\README.txt",
+      "PackagePath": "staticwebassets\\MDB\\README.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\Useful_Resources.pdf",
+      "PackagePath": "staticwebassets\\MDB\\Useful_Resources.pdf"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables-select.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables-select.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables-select.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables-select.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables-select2.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables-select2.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables-select2.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables-select2.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables2.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables2.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\datatables2.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\datatables2.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\directives.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\directives.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\directives.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\directives.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\flag.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\flag.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\flag.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\flag.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\jquery.zmd.hierarchical-display.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\jquery.zmd.hierarchical-display.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\jquery.zmd.hierarchical-display.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\jquery.zmd.hierarchical-display.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\rating.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\rating.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\addons\\rating.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\addons\\rating.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\mdb.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\mdb.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\mdb.lite.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\mdb.lite.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\mdb.lite.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\mdb.lite.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\mdb.lite.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\mdb.lite.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\mdb.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\mdb.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\mdb.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\mdb.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\modules\\animations-extended.min.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\modules\\animations-extended.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\modules\\animations-extended.min.css.map",
+      "PackagePath": "staticwebassets\\MDB\\css\\modules\\animations-extended.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\css\\style.css",
+      "PackagePath": "staticwebassets\\MDB\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\exclusive-templates\\unlock-exclusive-freebies.html",
+      "PackagePath": "staticwebassets\\MDB\\exclusive-templates\\unlock-exclusive-freebies.html"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\mdb-favicon.ico",
+      "PackagePath": "staticwebassets\\MDB\\img\\mdb-favicon.ico"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\01.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\01.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\02.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\02.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\03.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\03.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\04.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\04.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\05.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\05.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\06.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\06.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\07.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\07.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\08.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\08.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\overlays\\09.png",
+      "PackagePath": "staticwebassets\\MDB\\img\\overlays\\09.png"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\svg\\arrow_left.svg",
+      "PackagePath": "staticwebassets\\MDB\\img\\svg\\arrow_left.svg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\img\\svg\\arrow_right.svg",
+      "PackagePath": "staticwebassets\\MDB\\img\\svg\\arrow_right.svg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\index.html",
+      "PackagePath": "staticwebassets\\MDB\\index.html"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables-select.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables-select.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables-select.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables-select.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables-select2.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables-select2.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables-select2.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables-select2.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables2.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables2.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\datatables2.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\datatables2.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\directives.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\directives.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\directives.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\directives.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\flag.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\flag.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\flag.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\flag.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\imagesloaded.pkgd.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\imagesloaded.pkgd.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\jquery.zmd.hierarchical-display.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\jquery.zmd.hierarchical-display.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\jquery.zmd.hierarchical-display.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\jquery.zmd.hierarchical-display.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\masonry.pkgd.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\masonry.pkgd.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\rating.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\rating.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\addons\\rating.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\addons\\rating.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\mdb.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\mdb.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\mdb.lite.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\mdb.lite.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\mdb.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\mdb.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\mdb.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\mdb.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\animations-extended.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\animations-extended.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\animations-extended.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\animations-extended.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\forms-free.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\forms-free.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\forms-free.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\forms-free.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\scrolling-navbar.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\scrolling-navbar.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\scrolling-navbar.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\scrolling-navbar.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\treeview.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\treeview.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\treeview.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\treeview.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\wow.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\modules\\wow.min.js.map",
+      "PackagePath": "staticwebassets\\MDB\\js\\modules\\wow.min.js.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\popper.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\MDB\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\_custom-styles.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\_custom-styles.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\_custom-variables.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\_custom-variables.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_datatables-select.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_datatables-select.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_datatables-select2.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_datatables-select2.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_datatables.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_datatables.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_datatables2.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_datatables2.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_directives.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_directives.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_flag.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_flag.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_hierarchical-display.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_hierarchical-display.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\addons\\_rating.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\addons\\_rating.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_colors.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_colors.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_global.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_global.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_helpers.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_masks.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_masks.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_mixins.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_typography.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_variables.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\_waves.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\_waves.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\bootstrap\\_rfs.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\bootstrap\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\core\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\core\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_animations-basic.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_animations-basic.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_badges.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_buttons.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_cards.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_carousels.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_carousels.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_depreciated.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_depreciated.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_footers.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_footers.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_forms.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_input-group.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_list-group.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_loader.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_loader.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_modals.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_modals.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_msc.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_msc.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_navbars.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_navbars.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_pagination.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_steppers.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_steppers.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_tables.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\_treeview.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\_treeview.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\modules\\animations-extended\\_module.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\modules\\animations-extended\\_module.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\free\\modules\\animations-extended\\animations-extended.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\free\\modules\\animations-extended\\animations-extended.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\mdb-free.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\mdb-free.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\scss\\mdb-lite-free.scss",
+      "PackagePath": "staticwebassets\\MDB\\scss\\mdb-lite-free.scss"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\free\\forms-free.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\free\\forms-free.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\free\\scrolling-navbar.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\free\\scrolling-navbar.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\free\\treeview.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\free\\treeview.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\free\\wow.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\free\\wow.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\datatables-select.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\datatables-select.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\datatables-select2.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\datatables-select2.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\datatables.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\datatables.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\datatables2.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\datatables2.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\jquery.zmd.hierarchical-display.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\jquery.zmd.hierarchical-display.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\addons\\rating.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\addons\\rating.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\free\\bs-custom-file-input.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\free\\bs-custom-file-input.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\free\\chart.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\free\\chart.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\free\\chartjs-datalabels.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\free\\chartjs-datalabels.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\free\\enhanced-modals.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\free\\enhanced-modals.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\free\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\free\\jquery.easing.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\free\\velocity.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\free\\velocity.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\MDB\\src\\js\\vendor\\free\\waves.js",
+      "PackagePath": "staticwebassets\\MDB\\src\\js\\vendor\\free\\waves.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\Robots.txt",
+      "PackagePath": "staticwebassets\\Robots.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\ads.txt",
+      "PackagePath": "staticwebassets\\ads.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\article.css",
+      "PackagePath": "staticwebassets\\css\\article.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\currencyrates.css",
+      "PackagePath": "staticwebassets\\css\\currencyrates.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\gold.css",
+      "PackagePath": "staticwebassets\\css\\gold.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\integration.css",
+      "PackagePath": "staticwebassets\\css\\integration.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\mobile-article.css",
+      "PackagePath": "staticwebassets\\css\\mobile-article.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\mobile-footer.css",
+      "PackagePath": "staticwebassets\\css\\mobile-footer.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\mobile-news.css",
+      "PackagePath": "staticwebassets\\css\\mobile-news.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\news.css",
+      "PackagePath": "staticwebassets\\css\\news.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\policy.css",
+      "PackagePath": "staticwebassets\\css\\policy.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\privacy.css",
+      "PackagePath": "staticwebassets\\css\\privacy.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\css\\widget.css",
+      "PackagePath": "staticwebassets\\css\\widget.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\7-2021-sitemap.xml",
+      "PackagePath": "staticwebassets\\sitemap\\7-2021-sitemap.xml"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\7-2021-sitemap2.xml",
+      "PackagePath": "staticwebassets\\sitemap\\7-2021-sitemap2.xml"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\index.xml",
+      "PackagePath": "staticwebassets\\sitemap\\index.xml"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\sitemap.xml",
+      "PackagePath": "staticwebassets\\sitemap\\sitemap.xml"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\sitemap01.xml",
+      "PackagePath": "staticwebassets\\sitemap\\sitemap01.xml"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\sitemap02.xml",
+      "PackagePath": "staticwebassets\\sitemap\\sitemap02.xml"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\sitemap03.xml",
+      "PackagePath": "staticwebassets\\sitemap\\sitemap03.xml"
+    },
+    {
+      "Id": "D:\\Solutions\\DotNetCore0.8\\EgyptCurrencyRates\\EgyptCurrencyRates\\wwwroot\\sitemap\\temp.xml",
+      "PackagePath": "staticwebassets\\sitemap\\temp.xml"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EgyptCurrencyRates.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EgyptCurrencyRates.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EgyptCurrencyRates.props",
+      "PackagePath": "build\\EgyptCurrencyRates.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EgyptCurrencyRates.props",
+      "PackagePath": "buildMultiTargeting\\EgyptCurrencyRates.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EgyptCurrencyRates.props",
+      "PackagePath": "buildTransitive\\EgyptCurrencyRates.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

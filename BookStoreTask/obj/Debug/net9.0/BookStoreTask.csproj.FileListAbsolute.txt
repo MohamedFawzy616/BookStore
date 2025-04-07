@@ -13,6 +13,10 @@ D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\FluentVa
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Humanizer.dll
+D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Build.Locator.dll
@@ -34,6 +38,8 @@ D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsof
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Solutions\DotNetCore0.9\BookStoreTask\BookStoreTask\bin\Debug\net9.0\Microsoft.Extensions.Options.dll

@@ -1,0 +1,55 @@
+﻿.news {
+    padding-top: 50px;
+    direction: rtl;
+}
+
+    .news .header {
+        width:100%;
+    }
+        .news .header .links {
+            float: left;
+            font-size: 16px;
+            margin-top: 20px;
+            margin-bottom: 15px;
+        }
+            .news .header .links a {
+                margin-left: 7px;
+            }
+    .news h1 {
+        width: 50%;
+        text-align: right;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        display: inline-block;
+        float: right;
+    }
+
+    .news .reports .report .image {
+        padding-left: 5px;
+        margin-bottom: 5px;
+        padding: 0.03rem;
+    }
+
+    .news .reports .report .report-summary {
+        text-align: right;
+        border: 1px solid #dee2e6;
+        margin-bottom: 5px;
+        border-radius: 0.25rem;
+        padding-top: 15px;
+        margin-right: 0px;
+        height: 198.8px;
+    }
+    .news .reports .report .info {
+        color: #767676;
+        font-size: 14px;
+        position: absolute;
+        bottom: 10px;
+        width: 96%;
+    }
+    .news .reports .report .info .date{
+
+    }
+        .news .reports .report .info .author {
+            float: left;
+        }

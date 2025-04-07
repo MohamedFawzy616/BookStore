@@ -1,0 +1,1 @@
+[{"Id":27231838,"BankId":13,"Bank":"مصرف أبو ظبي الإسلامي","BankUrl":null,"CurrencyId":21,"Currency":"البات التايلندي","CurrencyCode":null,"Buy_Price":0.564,"Sale_Price":0.569,"Transfer_Buy":0.0,"Transfer_Sale":0.0,"BankLogo":"abu-dhabi.png","CurrencyLogo":"Thai-Baht.png","Date":"2025-02-20T04:00:20.407"}]

@@ -1,0 +1,72 @@
+﻿@model ArticleViewModel
+@{
+    ViewData["Title"] = Model.Title;
+    List<BankViewModel> banks = (List<BankViewModel>)ViewBag.Banks;
+    List<CurrencyViewModel> Currencies = (List<CurrencyViewModel>)ViewBag.Currencies;
+}
+
+<div class="article">
+    <h1>
+        @Model.Title
+    </h1>
+    <img class="img-thumbnail article-img" alt="@Model.Title" src="~/images/article/@Model.Image" />
+    <div class="info">
+        <span class="author">
+            محمد فوزي
+        </span>
+        <span class="date">
+            @ViewBag.stringDateTime
+        </span>
+    </div>
+
+    <hr />
+    <div class="content">
+        @{ int i = 0;}
+        @foreach (var item in Model.Content.Split("&").ToList())
+        {
+            i++;
+            if (i == 4 && Model.TypeId == 1)
+            {
+                i = 0;
+                BankViewModel bank = banks.Where(b => item.Contains(b.Name)).FirstOrDefault();
+                if (bank != null)
+                {
+                    <a href="/Bank/@bank.Name.Replace(" ","-")" class="btn btn-outline-info" data-mdb-ripple-color="dark">@bank.Name</a>
+                }
+            }
+            if (i == 4 && Model.TypeId == 2)
+            {
+                i = 0;
+                CurrencyViewModel currency = Currencies.Where(b => item.Contains(b.Name)).FirstOrDefault();
+                if (currency != null)
+                {
+                    <a href="/Currency/@currency.Name.Replace(" ", "-")" class="btn btn-outline-info" data-mdb-ripple-color="dark">@currency.Name</a>
+                }
+            }
+            <p>@Html.Raw(item)</p>
+        }
+    </div>
+    <hr />
+
+    <h6 class="seeMore">المزيد</h6>
+    <div class="seeMoreitems row">
+        @foreach (Article item in ViewBag.seeMore)
+        {
+            <div class="col-md-4 item">
+                <img class="img-thumbnail" alt="@Model.Title" src="~/images/article/@item.Image" />
+                <a href="/news/@item.Id/@item.Title.Replace(" ","-")">@item.Title</a><br />
+            </div>
+        }
+    </div>
+    <hr />
+    <h6 class="seeMore">أقرا ايضا</h6>
+    <div class="seeMoreitems row">
+        @foreach (Article item in ViewBag.seeAlso)
+        {
+            <div class="col-md-4 item">
+                <img class="img-thumbnail" alt="@Model.Title" src="~/images/article/@item.Image" />
+                <a href="/news/@item.Id/@item.Title.Replace(" ","-")">@item.Title</a><br />
+            </div>
+        }
+    </div>
+</div>

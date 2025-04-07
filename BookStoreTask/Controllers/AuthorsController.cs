@@ -2,6 +2,7 @@
 using BookStoreTask.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace BookStoreTask.Controllers
 {
@@ -10,6 +11,7 @@ namespace BookStoreTask.Controllers
     public class AuthorsController : ControllerBase
     {
         private readonly IAuthorService _authorService;
+
         public AuthorsController(IAuthorService authorService)
         {
             _authorService = authorService;

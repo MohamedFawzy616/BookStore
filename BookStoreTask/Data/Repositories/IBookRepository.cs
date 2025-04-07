@@ -13,5 +13,8 @@ namespace BookStoreTask.Data.Repositories
         Task<bool> BookExistsAsync(int id);
         Task<bool> BookExistsForAuthorAsync(int id, int authorId);
         Task<bool> SaveChangeAsync();
+
+        Task<IEnumerable<Book>> GetBooksByUserIdAsync(string userId);
+        Task<bool> IsBookOwnedByUserAsync(int bookId, string userId);
     }
 }

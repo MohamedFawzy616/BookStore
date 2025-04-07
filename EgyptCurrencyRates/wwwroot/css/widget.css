@@ -1,0 +1,15 @@
+﻿.widget {
+    text-align: center;
+}
+
+    .widget h1 {
+        text-align: center;
+        margin-bottom: 30px;
+        direction: rtl;
+    }
+    .widget .datetime{
+
+    }
+    .widget section {
+        margin-top: 15px;
+    }

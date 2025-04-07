@@ -1,0 +1,18 @@
+﻿@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+<ul class="pagination">
+    <li>
+        <a href="/NewsList/Index?page=@(Model.PageIndex - 1)"
+           class="btn btn-default @prevDisabled">
+            السابق
+        </a>
+    </li>
+    <li>
+        <a href="/NewsList/Index?page=@(Model.PageIndex + 1)"
+           class="btn btn-default @nextDisabled">
+            التالي
+        </a>
+    </li>
+</ul>

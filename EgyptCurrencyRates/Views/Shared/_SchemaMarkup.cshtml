@@ -1,0 +1,149 @@
+﻿<script type="application/ld+json">{"@@context":"https://schema.org",
+    "@@type":"WebPage","name":"أسعار صرف العملات الأجنبية وأسعار الذهب في مصر اليوم لحظة بلحظة | Ta3weem",
+    "description":"تابع آخر المستجدات مع Ta3weem.com -  اللحظية. احصل على بيانات دقيقة الآن!",
+    "url":"https://ta3weem.com/ar","image":"https://ta3weem.com/build/assets/open_graph_ar-db2da60c.png"}</script>
+
+
+{
+  "@@context": "https://schema.org",
+  "@@type": "WebPage",
+  "name": "أسعار العملات اليوم في مصر",
+  "description": "تعرف على أحدث أسعار العملات في البنوك المصرية مقابل الجنيه المصري اليوم.",
+  "url": "https://www.example.com/currency-rates",
+  "mainEntity": {
+    "@@type": "Table",
+    "name": "جدول أسعار العملات",
+    "description": "جدول يوضح أسعار العملات مقابل الجنيه المصري في البنوك المصرية.",
+    "url": "https://www.example.com/currency-rates#currency-table",
+    "table": {
+      "@@type": "https://schema.org/Table",
+      "name": "جدول أسعار العملات",
+      "description": "جدول يوضح أسعار العملات مقابل الجنيه المصري في البنوك المصرية.",
+      "url": "https://www.example.com/currency-rates#currency-table",
+      "column": [
+        {
+          "@@type": "TableColumn",
+          "name": "العملة"
+        },
+        {
+          "@@type": "TableColumn",
+          "name": "سعر الشراء"
+        },
+        {
+          "@@type": "TableColumn",
+          "name": "سعر البيع"
+        }
+      ],
+      "row": [
+        {
+          "@@type": "TableRow",
+          "name": "الدولار الأمريكي",
+          "description": "سعر الدولار الأمريكي مقابل الجنيه المصري",
+          "url": "https://www.example.com/currency-rates#usd",
+          "cell": [
+            {
+              "@@type": "TableCell",
+              "name": "الدولار الأمريكي"
+            },
+            {
+              "@@type": "TableCell",
+              "name": "15.75"
+            },
+            {
+              "@@type": "TableCell",
+              "name": "15.80"
+            }
+          ]
+        },
+        {
+          "@@type": "TableRow",
+          "name": "اليورو",
+          "description": "سعر اليورو مقابل الجنيه المصري",
+          "url": "https://www.example.com/currency-rates#eur",
+          "cell": [
+            {
+              "@@type": "TableCell",
+              "name": "اليورو"
+            },
+            {
+              "@@type": "TableCell",
+              "name": "17.50"
+            },
+            {
+              "@@type": "TableCell",
+              "name": "17.60"
+            }
+          ]
+        }
+        // ... المزيد من الصفوف للعملات الأخرى
+      ]
+    }
+  }
+}
+
+<script type="application/ld+json">
+	{
+	  "@@context": "https://schema.org",
+	  "@@type": "FinancialService",
+	  "name": "البنك الأهلي المصري",
+	  "url": "https://egyptcurrencyrates.com/usd-nbe",
+	  "priceRange": "EGP",
+	  "currenciesAccepted": "USD",
+	  "description": "سعر الدولار اليوم في البنك الأهلي المصري بتحديث لحظي."
+	}
+</script>
+
+
+<script type="application/ld+json">
+	{
+	  @* "@@context": "https://schema.org", *@
+	  "@@type": "FinancialProduct",
+	  "name": "سعر الدولار في البنك الأهلي المصري",
+	  "currency": "EGP",
+	  "priceRange": "سعر البيع - سعر الشراء"
+	}
+</script>
+
+
+
+@* في عنصر منفصل مع استخدام Schema.org لتوضيح وقت التحديث: *@
+<script type="application/ld+json">
+	{
+	  @* "@@context": "https://schema.org", *@
+	  "@@type": "WebPage",
+	  "dateModified": "2025-02-18T14:20:00+02:00"
+	}
+</script>
+
+
+<script type="application/ld+json">
+	{
+	  "@@context": "https://schema.org",
+	  "@@type": "CurrencyExchange",
+	  "name": "سعر الدولار مقابل الجنيه المصري",
+	  "description": "أحدث أسعار صرف الدولار مقابل الجنيه المصري في البنك الأهلي.",
+	  "currency": "USD",
+	  "exchangeRate": "30.50",
+	  "datePublished": "2023-10-01"
+	}
+</script>
+
+@* 
+6. إضافة بيانات مُنظمة (Schema Markup)
+استخدم بيانات مُنظمة (Structured Data) مثل JSON-LD لمساعدة جوجل على فهم محتوى الصفحة بشكل أفضل. على سبيل المثال، يمكنك إضافة بيانات مُنظمة لأسعار العملات.
+
+ *@
+
+<script type="application/ld+json">
+	{
+	  @* "@@context": "https://schema.org", *@
+	  "@@type": "Currency",
+	  "name": "سعر الدولار في مصر",
+	  "description": "أحدث أسعار الدولار الأمريكي مقابل الجنيه المصري",
+	  "currentExchangeRate": {
+		"@@type": "UnitPriceSpecification",
+		"priceCurrency": "EGP",
+		"price": "30.50"
+	  }
+	}
+</script>

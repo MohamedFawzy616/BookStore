@@ -1,0 +1,70 @@
+﻿@using System.Text;
+@model List<RateViewModel>
+
+@{
+	var law_Buy_Price = Model.OrderBy(r => r.Buy_Price).FirstOrDefault().Buy_Price;
+	var high_Buy_Price = Model.OrderByDescending(r => r.Buy_Price).FirstOrDefault().Buy_Price;
+}
+
+<script type="application/ld+json">
+	{
+	"@@context": "https://schema.org",
+	"@@type": "Bank",
+	"name": "@Html.Raw(Model.FirstOrDefault().Bank)",
+	"description": "@Html.Raw(ViewBag.description)",
+	"currenciesAccepted": "@string.Join(", ", Model.Select(e => e.CurrencyCode).ToList())",
+
+
+	"offers": [@{
+		StringBuilder stringBuilder = new StringBuilder();
+
+		foreach (RateViewModel rateView in Model)
+		{
+			double price = rateView.Buy_Price;
+			string priceCurrency = "EGP";
+			string availability = "https://schema.org/InStock";
+			string currencyName = rateView.Currency.Replace(")", string.Empty).Replace("(", string.Empty);
+			string currencyCode = rateView.CurrencyCode;
+			string bankName = rateView.Bank.Replace(")", string.Empty).Replace("(", string.Empty);
+			string date = rateView.Date.AddSeconds(new Random().Next(1, 60)).ToString("yyyy-MM-ddTHH:mm:sszzz"); //.ToString("YYYY-MM-DDTHH:mm:ss.sssZ");
+
+			string json = string.Format(@"
+		{{
+		  ""@type"": ""Offer"",
+		  ""price"": {0},
+		  ""priceCurrency"": ""EGP"",
+			  ""dateModified"":""{6}"",
+			  ""itemOffered"": {{
+			  ""@type"": ""Currency"",
+			   ""name"": ""{3}"",
+				""code"": ""{4}""
+		  }}
+		}},", Math.Round(price, 2), priceCurrency, availability, currencyName, currencyCode, bankName, date);
+
+			stringBuilder.Append(json);
+
+			if (rateView == Model.Last())
+			{
+				stringBuilder.Remove(stringBuilder.Length - 1, 1); // Remove the last comma
+			}
+		}
+	}
+	@Html.Raw(stringBuilder.ToString())
+		  ]
+		}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

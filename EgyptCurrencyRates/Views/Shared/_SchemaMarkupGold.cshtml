@@ -1,0 +1,53 @@
+﻿@using System.Text;
+@model List<GoldPriceModel>
+
+<script type="application/ld+json">
+    {
+    "@@context": "https://schema.org",
+    "@@type": "ItemList",
+    "name": "@Html.Raw("سعر الذهب اليوم في مصر")",
+    "description": "@Html.Raw("تعرف على سعر الذهب اليوم في مصر تحديث فوري ومباشر لجميع الأعيرة")",
+    "datePublished": "@Html.Raw(Model.FirstOrDefault().Date.Value.ToString("yyyy-MM-dd"))",
+    "lastUpdated": "@Html.Raw(Model.FirstOrDefault().Date.Value.ToString("yyyy-MM-ddTHH:mm:sszzz"))",
+    "publisher": {
+    "@@type": "Organization",
+    "name": "EgyptCurrencyRates.com",
+    "url": "https://egyptcurrencyrates.com"
+    },
+    "itemListElement": [
+    @{
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i = 0; i < Model.Count; i++)
+        {
+            var item = Model[i];
+            string json = string.Format(@"
+            {{
+                ""@type"": ""ListItem"",
+                ""position"": {2},
+                ""item"": {{
+                    ""@type"": ""PriceSpecification"",
+                    ""name"": ""{0}"",
+                    ""price"": ""{1}"",
+                    ""priceCurrency"": ""EGP"",
+                    ""unitText"": ""Gram"",
+                    ""referenceQuantity"": {{
+                        ""@type"": ""QuantitativeValue"",
+                        ""value"": 1
+                    }}
+                }}
+            }}", item.GoldUnitTitleAr, item.EgyptianPound.Replace(",", string.Empty), i + 1);
+
+            stringBuilder.Append(json);
+
+            // Append a comma except for the last item
+            if (i < Model.Count - 1)
+            {
+                stringBuilder.Append(",");
+            }
+        }
+    }
+    @Html.Raw(stringBuilder.ToString())
+
+        ]
+    }
+</script>

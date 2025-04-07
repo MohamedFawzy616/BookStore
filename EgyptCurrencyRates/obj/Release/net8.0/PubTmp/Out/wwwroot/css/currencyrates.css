@@ -1,0 +1,24 @@
+﻿.CurrencyRates {
+    text-align: right;
+    direction: rtl;
+    margin-top:50px;
+}
+
+    .CurrencyRates thead th {
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .CurrencyRates th {
+        text-align: right;
+    }
+
+    .CurrencyRates tbody tr td {
+        padding-left: 0px;
+        padding-right: 1px;
+    }
+
+.summary {
+    text-align: right;
+    border: 1px solid #dee2e6;
+    padding: 20px 10px;
+}
